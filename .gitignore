@@ -1,0 +1,4 @@
+bin
+
+# Serverless directories
+.serverless
